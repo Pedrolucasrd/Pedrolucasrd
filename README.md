@@ -1,7 +1,7 @@
 ### Hi, I'm Pedro Lucas 
 A Java software developer. 👋
 
-- 💻 Atualmente estou trabalhando em um projeto proprio.
+- 💻 Atualmente estou trabalhando em um projeto próprio.
 - 💼 Procurando colaborar em uma corporação para colocar pratica meus conhecimentos e adquirir experiência.
 - 🎓 Cursando Banco de Dados 3/6
 
