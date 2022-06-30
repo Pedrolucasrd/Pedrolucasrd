@@ -2,7 +2,7 @@
 A Java software developer. 👋
 
 - 💻 Atualmente estou trabalhando em um projeto próprio.
-- 💼 Procurando colaborar em uma corporação para colocar pratica meus conhecimentos e adquirir experiência.
+- 💼 Procurando colaborar em uma corporação para colocar em pratica meus conhecimentos e adquirir experiências.
 - 🎓 Cursando Banco de Dados 3/6
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pedrolucasrd&theme=blackcontrast&show_icons=true&count_private=true)
