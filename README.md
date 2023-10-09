@@ -2,7 +2,7 @@
 A Java software developer. 👋
 
 - 💻 Atualmente estou trabalhando na empresa UC Technology do Brasil.
-- 🎓 Cursando Banco de Dados 4/6
+- 🎓 Cursando Banco de Dados 5/6
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pedrolucasrd&theme=blackcontrast&show_icons=true&count_private=true)
 ### Ferramentas e Tecnologias:
