@@ -1,8 +1,14 @@
 ### Hi, I'm Pedro Lucas 
 A Java software developer. 👋
 
+
 - 💻 Atualmente estou trabalhando na empresa UC Technology do Brasil.
 - 🎓 Cursando Banco de Dados 5/6
+
+Experience in developing projects with Java (Spring, Hibernate), Javascript
+(Vue.js, React.js, and Angular), Database (MySQL, Oracle, PostgreSQL,
+PL/SQL), version control, and continuous integration (GitHub Actions, Jenkins) as
+well as AWS.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pedrolucasrd&theme=blackcontrast&show_icons=true&count_private=true)
 ### Ferramentas e Tecnologias:
