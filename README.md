@@ -4,7 +4,7 @@ A Java software developer. 👋
 
 
 - 💻 Currently, I'm working at UC Technology in Brazil.
-- 🎓 Studying Database 5/6.
+- 🎓 Studying Database 6/6.
 
 Experience in developing projects with Java (Spring, Hibernate), Javascript
 (Vue.js, React.js, and Angular), Database (MySQL, Oracle, PostgreSQL,
